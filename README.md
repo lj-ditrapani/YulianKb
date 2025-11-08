@@ -15,3 +15,11 @@ o i a n k  b h t s r
 This layout arranges more frequent top and bottom row consonants onto stronger fingers compared to aptmak.  This is at the expense of higher SFBs, mainly due to the `ct` SFB (0.25%), which I find quite comfortable to type being on a strong finger with a downward raking motion.  The b key is also moved to a closer, more comfortable position, being the most frequent of the inner column letters.
 
 ![cyanophage](cyanophage.png "cyanophage")
+
+Real YulianKb keyboards:
+
+![cyber](cyber-kb.jpg "cyber")
+
+![dancer](dancer-kb.jpg "dancer")
+
+![solarized](solarized-kb.jpg "solarized")
